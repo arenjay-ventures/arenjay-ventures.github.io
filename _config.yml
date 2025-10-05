@@ -1,6 +1,9 @@
-title: Arenjay-Ventures: Hancock
-description: A single source of reference for my prior, current and upcoming projects.
+# Wrap the title in single or double quotes
+title: 'Arenjay-Ventures: Hancock'
+
+# The description is also best wrapped in quotes for consistency
+description: 'A single source of reference for my prior, current and upcoming projects.'
+
 theme: just-the-docs
 
 url: https://arenjay-ventures.github.io
-
