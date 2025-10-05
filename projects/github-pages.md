@@ -2,7 +2,7 @@
 layout: default
 title: github-pages
 parent: Foundations
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 # Github-pages (Your Personal Repo for showing progress)
