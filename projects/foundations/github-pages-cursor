@@ -1,7 +1,7 @@
 ---
 layout: default
 title: github-pages
-parent: foundations
+parent: Foundations
 nav_order: 3
 has_children: true
 ---
