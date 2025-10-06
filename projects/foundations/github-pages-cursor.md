@@ -1,6 +1,6 @@
 ---
 layout: default
-title: github-pages
+title: github-pages-cursor
 parent: Foundations
 nav_order: 3
 has_children: true
