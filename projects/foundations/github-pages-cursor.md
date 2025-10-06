@@ -27,19 +27,11 @@ After proper pages are made you can fill in your actual project documentation on
 
 ---
 
-### **Phase 1: The Foundation - One-Time Setup**
-*(This section remains the same as the previous version: Install Git, Install VS Code/Cursor, Configure Git with your identity)*
-
-### **Phase 2: Building the Site - From GitHub to Your Local Machine**
-*(This section remains the same as the previous version: Create the Repository from Template, Clone it to your local machine, Open the project in your IDE)*
-
----
-
-### **Phase 3: AI-Assisted Structuring**
+### **Phase 1: AI-Assisted Structuring**
 
 This is where we accelerate the process. Instead of manually creating every folder and file and risking typos in the Front Matter, we will instruct an AI assistant like Cursor to do it for us. This ensures a perfectly formatted structure from the start.
 
-#### **Step 6: Prompting the AI for Structure**
+#### **Step 1: Prompting the AI for Structure**
 
 In your IDE (Cursor or VS Code with an AI extension), open a chat window and provide a clear, detailed prompt. The key to a good prompt is to be specific about the file names, folder hierarchy, and the exact Front Matter content.
 
@@ -77,16 +69,16 @@ In your IDE (Cursor or VS Code with an AI extension), open a chat window and pro
 >
 > Remember to correctly set the `title`, `parent`, `grand_parent`, `nav_order`, and `has_children` properties in the YAML Front Matter for every file."
 
-#### **Step 7: Review and Verify**
+#### **Step 2: Review and Verify**
 After the AI generates the files, quickly review them. Check that the folders are named correctly and that the `parent` and `grand_parent` values in the Front Matter match the `title` of their parent pages exactly. The AI is excellent at this, but a quick human check is always good practice.
 
 ---
 
-### **Phase 4: The Human Workflow - Edit, Commit, Push**
+### **Phase 2: The Human Workflow - Edit, Commit, Push**
 
 With the tedious structuring done, you can now focus on the most important part: creating the content that represents your skills.
 
-#### **Step 8: Configure and Commit Your Initial Site**
+#### **Step 3: Configure and Commit Your Initial Site**
 
 1.  Open the `_config.yml` file. Edit the `title` and `description` to your liking, remembering to wrap any values containing special characters in quotes.
 2.  Save all your files.
