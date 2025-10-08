@@ -19,5 +19,3 @@ This portfolio documents my learning journey and showcases the practical example
 *   **Crypto & Web3:** EVM based Smart contract security, tokenomics, and node management with Solidity and Rust.
 *   **Automation & Scripting:** Building practical tools and automating tasks with Python, Node.js and Rust.
 *   **Infrastructure & Security:** Constructing and securing a homelab environment to practice network and system security.
-
-[**See My Work in Progress**](./projects.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
